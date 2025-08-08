@@ -18,8 +18,8 @@ Este projeto é uma calculadora de média simples desenvolvida em Python, ideal 
 - Entrada de dados (`input`)
 - Conversão de tipos (`float`)
 - Estruturas de decisão (`if`, `elif`, `else`)
-- Listas (se você usou)
-- Laços (`while` ou `for`, se usou)
+- Listas
+- Laços (`while` ou `for`)
 
 ## ▶️ Como executar
 
